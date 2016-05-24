@@ -16,6 +16,10 @@ var Dog = function(){ inherit.apply(this,arguments) };
 var Cat = function(){ inherit.apply(this,arguments) };
 var Woodpecker = function(){ inherit.apply(this,arguments) };
 
+function getTypep() {
+	
+}
+
 
 
 
