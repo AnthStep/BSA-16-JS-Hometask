@@ -47,7 +47,7 @@ function getTypep(obj) {
 	}
 };
 
-function getTypep2() {
+function getTypep1() {
 	obj = this;
 	if ("weight" in obj){
 		return "Dog";
